@@ -1,0 +1,13 @@
+{
+    "name": "MySecret",
+    "alias": "mysecret",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MySecret\\Providers\\MySecretServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

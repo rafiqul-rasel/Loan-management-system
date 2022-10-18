@@ -1,0 +1,13 @@
+{
+    "name": "LoanStatus",
+    "alias": "loanstatus",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\LoanStatus\\Providers\\LoanStatusServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

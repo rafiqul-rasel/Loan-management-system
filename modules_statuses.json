@@ -1,0 +1,9 @@
+{
+    "WebSetting": true,
+    "RolesPermissions": true,
+    "LoanCategories": true,
+    "Users": true,
+    "Loan": true,
+    "MySecret": true,
+    "LoanStatus": true
+}

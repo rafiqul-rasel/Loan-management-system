@@ -1,0 +1,159 @@
+/* =====================================
+Template Name: Travel Trek
+Author Name: iThemer
+Author URI: http://ithemer.com/
+Description: Travel Trek is a Tour & Travel Website Templates.
+Version:	1.0
+========================================*/
+/* Tablet Screen */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.title-line {
+	padding: 0px 50px;
+}
+.site-header .single-widget {
+	margin-right: 10px;
+	padding-right: 10px;
+	text-align: left;
+}
+.site-header .nav li {
+	margin-right: 20px;
+}
+.site-header .nav li a {
+	padding: 12px 10px;
+}
+.site-header .search-form {
+	display: none;
+}
+.cta-style .cta-text {
+	padding: 50px 50px;
+}
+.blog .single-news:hover{
+	box-shadow:none;
+}
+.blog .single-news .news-content {
+	padding: 25px 0px;
+}
+.about .about-img{
+	margin-top:30px;
+}
+#contact .contact-head {
+	margin-top: 30px;
+}
+}
+/* Mobile Screen */
+@media only screen and (max-width: 767px) {
+.breadcrumbs h2 {
+	font-size: 30px;
+}
+.site-header .header-widget,.site-header .header-bottom {
+	display: none;
+}
+.site-header .logo {
+	margin-top: 5px;
+}
+.slicknav_nav{
+	background:#454545;
+}
+.slicknav_btn{
+	position: relative;
+	top: 8px;
+}
+.title-line {
+	padding: 0px;
+}
+.site-header .topbar p,.site-header .social {
+	float: none;
+	text-align: center;
+}
+.slicknav_menu{
+	display:block;
+}
+.slicknav_menu {
+	display: block;
+	background: transparent;
+}
+.site-header .nav li {
+	margin-right: 20px;
+}
+.site-header .nav li a {
+	padding: 12px 10px;
+}
+.site-header .search-form {
+	display: none;
+}
+.hero-area .single-slider{
+	height:500px;
+}
+.hero-area .welcome-text {
+	padding-top: 90px;
+}
+.hero-area .welcome-text h1 {
+	font-size: 22px;
+}
+.hero-area .welcome-text .btn{
+	margin:0 0 10px 0;
+}
+.hero-area .welcome-text .btn:last-child{
+	margin:0;
+}
+.trip-main .form-group {
+	width: 100%;
+	margin:0;
+}
+.trip-main .trip-search h2{
+	margin-bottom:30px;
+}
+.trip-main .trip-search .form-group h4 {
+	margin: 0 0 10px;
+	text-align:left;
+}
+.trip-main .form-group {
+	width: 100%;
+	margin: 0 0 20px;
+}
+.trip-main .form-group:last-child{
+	margin:0;
+}
+.cta-style .cta-text {
+	padding: 0;
+}
+.cta-style .cta-text h2 {
+	font-size: 26px;
+}
+.cta-style .button .btn {
+	padding: 10px 15px;
+}
+.cta-style .cta-text p {
+	font-size: 15px;
+}
+.testimonials .single-slider {
+	padding: 0px 0;
+}
+.about .about-content{
+	padding:0;
+}
+.about .about-content .button .btn {
+	padding: 14px 17px;
+}
+.team .t-hover {
+	padding: 20px 20px 0px 20px;
+}
+.error-page .error-inner .text-inner {
+	padding: 20px;
+}
+.blog .single-news:hover{
+	box-shadow:none;
+}
+.blog .single-news .news-content {
+	padding: 25px 0px;
+}
+.blog-single .comments .single-comment.left {
+	margin-left: 0;
+}
+.about .about-img{
+	margin-top:30px;
+}
+#contact .contact-head {
+	margin-top: 30px;
+}
+}
